@@ -45,10 +45,15 @@
 
 ---
 
-
 [Reddit Clone](https://github.com/andrewwmclain/reddit_on_rails)
 <br>
 <img src="images/2qy7unjo2j331.png?raw=true"/>
+
+---
+
+[Rust Parser](https://github.com/andrewwmclain/rust_parser)
+<br>
+<img src="images/rustparser.png?raw=true"/>
 
 ---
 

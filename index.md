@@ -153,6 +153,20 @@
 ---
 
 
+### Arzeda Internship Protein Quantitation Presentation
+
+<ul>
+  <li>
+    Part of a project where I experimentally determined and compared the specifications of different protein quantitation kits. 
+  </li>
+</ul>
+
+<br>
+<embed src="pdf/ArzedaPresentation.pdf" width="500" height="375" 
+ type="application/pdf">
+
+---
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

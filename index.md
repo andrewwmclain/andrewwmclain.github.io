@@ -47,7 +47,7 @@
 
 <ul>
   <li>
-      Dashboard application written in C++ and built using the Qt Creator IDE. Displays the time in different time zones and allows the user to input a zip code to reveal that location on a map using the Bing map API as well as the current weather at that zip code using a weather API. The pictures change every 5 seconds with a timer and the dashboard greets the user according to the time of day in the chosen zip code. 
+      Dashboard application written in C++ and built using the Qt Creator IDE. Displays the time in different time zones and allows the user to input a zip code to reveal that location on a map using the Bing map API as well as the current weather at that zip code using the OpenWeatherMap API. The pictures change every 5 seconds with a timer and the dashboard greets the user according to the time of day in the chosen zip code. 
   </li>
 </ul>
 

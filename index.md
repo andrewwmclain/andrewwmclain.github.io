@@ -183,7 +183,7 @@
 
 ---
 
-### Time Complexity Analysi
+### Time Complexity Analysis
 
 <ul>
   <li>

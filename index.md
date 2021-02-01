@@ -153,7 +153,7 @@
 ---
 
 
-### Arzeda<sup>tm</sup> Internship Protein Quantitation Presentation
+### Arzeda<sup>TM</sup> Internship Protein Quantitation Presentation
 
 <ul>
   <li>

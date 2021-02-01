@@ -53,7 +53,7 @@
 
 [Rust Parser](https://github.com/andrewwmclain/rust_parser)
 <br>
-<img src="images/rustparser.png?raw=true"/>
+<img src="images/rustparser.PNG?raw=true"/>
 
 ---
 

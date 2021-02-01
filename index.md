@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Battleship](https://github.com/andrewwmclain/battleship_v3)
+testing 123
 <img src="images/image2.png?raw=true"/>
 
 ---

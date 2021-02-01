@@ -165,7 +165,22 @@
 <embed src="pdf/ArzedaPresentation.pdf" width="500" height="500" 
  type="application/pdf">
 <br>
- 
+
+--- 
+
+### LingoJive System Specification
+
+<ul>
+  <li>
+    System specification for LingoJive, a language exchange application. Currently working to build this application as part of a team project (updates soon).  
+  </li>
+</ul>
+
+<br>
+<embed src="pdf/LingoJiveSysSpec.pdf" width="500" height="500" 
+ type="application/pdf">
+<br>
+
 ---
 
 ---

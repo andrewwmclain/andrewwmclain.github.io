@@ -31,6 +31,14 @@
 <br>
 <img src="images/phoneApp7.png?raw=true"/>
 
+---
+
+[Dashboard](https://github.com/andrewwmclain/dashboard)
+<br>
+<img src="images/dashboardScreenshot.png?raw=true"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)

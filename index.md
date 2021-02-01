@@ -20,7 +20,9 @@
 
 ### Reddit Clone
 <ul>
+  <li>
   Reddit clone built using Ruby on Rails and PostgreSQL. Devise used for user authentication. 
+  </li>
 </ul>
 [GitHub](https://github.com/andrewwmclain/reddit_on_rails)
 <br>
@@ -31,7 +33,9 @@
 ### Battleship
 
 <ul>
-  Battleship game written in C++, run from the Linux command line utilizing the ncurses library. 
+  <li>
+      Battleship game written in C++, run from the Linux command line utilizing the ncurses library. 
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/battleship_v3)
@@ -42,7 +46,9 @@
 ### Dashboard
 
 <ul>
-  Dashboard application written in C++ and built using the Qt Creator IDE. Displays the time in different time zones and allows the user to input a zip code to reveal that location on a map using the Bing map API as well as the current weather at that zip code using a weather API. The pictures change every 5 seconds with a timer and the dashboard greets the user according to the time of day in the chosen zip code. 
+  <li>
+      Dashboard application written in C++ and built using the Qt Creator IDE. Displays the time in different time zones and allows the user to input a zip code to reveal that location on a map using the Bing map API as well as the current weather at that zip code using a weather API. The pictures change every 5 seconds with a timer and the dashboard greets the user according to the time of day in the chosen zip code. 
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/dashboard)
@@ -54,7 +60,9 @@
 ### Huffman Tree
 
 <ul>
-  My own implementation of the Huffman Tree algorithm in C++. Has both encoding and decoding functionality. 
+  <li>
+      My own implementation of the Huffman Tree algorithm in C++. Has both encoding and decoding functionality. 
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/huffmantree)
@@ -66,7 +74,9 @@
 ### COVID-19 Choropleth Map
 
 <ul>
-  Interactive map written in R using the ggplotly library which allows users to select a statistic to plot and a date to reveal a heat map of COVID statistics across the United States. Users can hover their mouse over a state to see more details. 
+  <li>
+      Interactive map written in R using the ggplotly library which allows users to select a statistic to plot and a date to reveal a heat map of COVID statistics across the United States. Users can hover their mouse over a state to see more details. 
+  </li>
 </ul>
 [GitHub](https://github.com/andrewwmclain/R-Covid-Map)
 <img src="images/covidmap.png?raw=true"/>
@@ -76,7 +86,9 @@
 ### Phone Dialer
 
 <ul>
-  Desktop application written in C++ using the QT Creator IDE. Users can upload an excel file of contacts from their device into the application. They can then click the numbers on the interface to search for a phone number and the address book updates with each change. 
+  <li>
+      Desktop application written in C++ using the QT Creator IDE. Users can upload an excel file of contacts from their device into the application. They can then click the numbers on the interface to search for a phone number and the address book updates with each change. 
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/phonedialer)
@@ -88,7 +100,9 @@
 ### Hotel Reservation
 
 <ul>
-  Desktop application written in C++ using the QT Creator IDE. Users go through a series of prompts for reservation details, payment information, etc. and may proceed if the information is valid.
+  <li>
+      Desktop application written in C++ using the QT Creator IDE. Users go through a series of prompts for reservation details, payment information, etc. and may proceed if the information is valid.
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/QtReservation)
@@ -100,7 +114,9 @@
 ### Rust Parser
 
 <ul>
-  Parser for a three-point grammar written in Rust. Determines whether or not a statement belongs to the three-point grammar. 
+  <li>
+      Parser for a three-point grammar written in Rust. Determines whether or not a statement belongs to the three-point grammar. 
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/rust_parser)
@@ -112,7 +128,9 @@
 ### Scheme Geometry
 
 <ul>
-  Scheme program to create and execute various operations on triangles. 
+  <li>
+      Scheme program to create and execute various operations on triangles. 
+  </li>
 </ul>
 [GitHub](https://github.com/andrewwmclain/scheme-geometry)
 <br>
@@ -123,7 +141,9 @@
 ### Prolog Geometry
 
 <ul>
-  Prolog program to determine the properties of various types of triangles. 
+  <li>
+      Prolog program to determine the properties of various types of triangles. 
+  </li>
 </ul>
 
 [GitHub](https://github.com/andrewwmclain/prolog-geometry)

@@ -39,6 +39,12 @@
 
 ---
 
+[Huffman Tree](https://github.com/andrewwmclain/huffmantree)
+<br>
+<img src="images/huffmantree.png?raw=true"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)

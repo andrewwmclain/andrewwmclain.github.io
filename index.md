@@ -45,6 +45,13 @@
 
 ---
 
+
+[Reddit Clone](https://github.com/andrewwmclain/reddit_on_rails)
+<br>
+<img src="images/2qy7unjo2j331.png?raw=true"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)

@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Battleship](/https://github.com/andrewwmclain/battleship_v3)
+[Battleship](https://github.com/andrewwmclain/battleship_v3)
 <img src="images/image2.png?raw=true"/>
 
 ---

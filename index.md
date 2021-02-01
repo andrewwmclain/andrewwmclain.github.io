@@ -8,8 +8,8 @@
 <img src="images/image2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Choropleth Map](https://github.com/andrewwmclain/R-Covid-Map)
+<img src="images/covidmap.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

@@ -12,8 +12,11 @@
 <img src="images/covidmap.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Book Store](https://csc3221-final-project-frontend.herokuapp.com/extra_credit)
+<br>
+<a href="https://github.com/andrewwmclain/CSC3221_Final_Project_Front_End"> Front End </a>
+<a href="https://github.com/andrewwmclain/CSC3221_Final_Project_Back_End"> Back End </a>
+<img src="images/frontEnd1.png?raw=true"/>
 
 ---
 

@@ -164,7 +164,9 @@
 <br>
 <embed src="pdf/ArzedaPresentation.pdf" width="500" height="375" 
  type="application/pdf">
-
+ 
+ <iframe src="pdf/ArzedaPresentation.pdf" height="200" width="300"></iframe>
+ 
 ---
 
 ---

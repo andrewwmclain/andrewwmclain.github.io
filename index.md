@@ -41,7 +41,7 @@
 
 [Huffman Tree](https://github.com/andrewwmclain/huffmantree)
 <br>
-<img src="images/huffmantree.png?raw=true"/>
+<img src="images/huffmantree.PNG?raw=true"/>
 
 ---
 

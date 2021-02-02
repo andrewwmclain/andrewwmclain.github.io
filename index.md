@@ -187,7 +187,7 @@
 
 <ul>
   <li>
-    Paper which covers a time complexity analysis of recursive and iterative implementations of the same function. Individual project. 
+    Paper which covers a time complexity analysis of recursive and iterative implementations of the same function. Code written in C++ and graphed using R and RStudio with the ggplot library. Individual project. 
   </li>
 </ul>
 

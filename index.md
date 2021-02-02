@@ -6,7 +6,7 @@
 <ul>
   <li>
     Website built using Node.js, Express.js, MongoDB, Bootstrap, and deployed on Heroku. Allows users to do CRUD operations to
-    add, delete, or update books in the database. AJAX used for a more seamless experience. 
+    add, delete, or update books in the database. AJAX used for a more seamless experience. Individual project. 
   </li>
 </ul>
 [Website (Heroku)](https://csc3221-final-project-frontend.herokuapp.com/extra_credit)
@@ -18,10 +18,10 @@
 
 ---
 
-### Reddit Clone
+### Snap!Raise<sup>TM</sup> Internship Reddit Clone
 <ul>
   <li>
-  Reddit clone built using Ruby on Rails and PostgreSQL. Devise used for user authentication. 
+  Individual project from my internship at Snap! Raise. Reddit clone built using Ruby on Rails and PostgreSQL. Devise used for user authentication. 
   </li>
 </ul>
 [GitHub](https://github.com/andrewwmclain/reddit_on_rails)
@@ -34,7 +34,7 @@
 
 <ul>
   <li>
-      Battleship game written in C++, run from the Linux command line utilizing the ncurses library. 
+      Battleship game written in C++, run from the Linux command line utilizing the ncurses library. Individual project. 
   </li>
 </ul>
 
@@ -47,7 +47,7 @@
 
 <ul>
   <li>
-      Dashboard application written in C++ and built using the Qt Creator IDE. Displays the time in different time zones and allows the user to input a zip code to reveal that location on a map using the Bing map API as well as the current weather at that zip code using the OpenWeatherMap API. The pictures change every 5 seconds with a timer and the dashboard greets the user according to the time of day in the chosen zip code. 
+      Dashboard application written in C++ and built using the Qt Creator IDE. Displays the time in different time zones and allows the user to input a zip code to reveal that location on a map using the Bing map API as well as the current weather at that zip code using the OpenWeatherMap API. The pictures change every 5 seconds with a timer and the dashboard greets the user according to the time of day in the chosen zip code. Individual project. 
   </li>
 </ul>
 
@@ -61,7 +61,7 @@
 
 <ul>
   <li>
-      My own implementation of the Huffman Tree algorithm in C++. Has both encoding and decoding functionality. 
+      My own implementation of the Huffman Tree algorithm in C++. Has both encoding and decoding functionality. Individual project. 
   </li>
 </ul>
 
@@ -75,7 +75,7 @@
 
 <ul>
   <li>
-      Interactive map written in R using the ggplotly library which allows users to select a statistic to plot and a date to reveal a heat map of COVID statistics across the United States. Users can hover their mouse over a state to see more details. 
+      Interactive map written in R using the ggplotly library which allows users to select a statistic to plot and a date to reveal a heat map of COVID statistics across the United States. Users can hover their mouse over a state to see more details. Individual project. 
   </li>
 </ul>
 [GitHub](https://github.com/andrewwmclain/R-Covid-Map)
@@ -87,7 +87,7 @@
 
 <ul>
   <li>
-      Desktop application written in C++ using the QT Creator IDE. Users can upload an excel file of contacts from their device into the application. They can then click the numbers on the interface to search for a phone number and the address book updates with each change. 
+      Desktop application written in C++ using the QT Creator IDE. Users can upload an excel file of contacts from their device into the application. They can then click the numbers on the interface to search for a phone number and the address book updates with each change. Individual project. 
   </li>
 </ul>
 
@@ -101,7 +101,7 @@
 
 <ul>
   <li>
-      Desktop application written in C++ using the QT Creator IDE. Users go through a series of prompts for reservation details, payment information, etc. and may proceed if the information is valid.
+      Desktop application written in C++ using the QT Creator IDE. Users go through a series of prompts for reservation details, payment information, etc. and may proceed if the information is valid. Individual project. 
   </li>
 </ul>
 
@@ -115,7 +115,7 @@
 
 <ul>
   <li>
-      Parser for a three-point grammar written in Rust. Determines whether or not a statement belongs to the three-point grammar. 
+      Parser for a three-point grammar written in Rust. Determines whether or not a statement belongs to the three-point grammar. Individual project. 
   </li>
 </ul>
 
@@ -129,7 +129,7 @@
 
 <ul>
   <li>
-      Scheme program to create and execute various operations on triangles. 
+      Scheme program to create and execute various operations on triangles. Individual project. 
   </li>
 </ul>
 [GitHub](https://github.com/andrewwmclain/scheme-geometry)
@@ -142,7 +142,7 @@
 
 <ul>
   <li>
-      Prolog program to determine the properties of various types of triangles. 
+      Prolog program to determine the properties of various types of triangles. Individual project. 
   </li>
 </ul>
 
@@ -157,7 +157,7 @@
 
 <ul>
   <li>
-    Part of a project where I experimentally determined and compared the specifications of different protein quantitation kits. 
+    Part of an individual project where I experimentally determined and compared the specifications of different protein quantitation kits. 
   </li>
 </ul>
 
@@ -172,7 +172,7 @@
 
 <ul>
   <li>
-    System specification for LingoJive, a language exchange application. Currently working to build this application as part of a team project (updates soon).  
+    System specification for LingoJive, a language exchange application. Completed this independently, but I am currently working to build this application as part of a team project (updates soon).  
   </li>
 </ul>
 
@@ -187,7 +187,7 @@
 
 <ul>
   <li>
-    Paper which covers a time complexity analysis of recursive and iterative implementations of the same function.  
+    Paper which covers a time complexity analysis of recursive and iterative implementations of the same function. Individual project. 
   </li>
 </ul>
 

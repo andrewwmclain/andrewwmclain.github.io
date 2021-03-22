@@ -2,6 +2,16 @@
 
 ---
 
+### Small Groups Graphing
+<ul>
+  <li>
+      Graphing Algorithm Written in Java to solve group allocation problem. Individual Project. 
+  </li>
+</ul>
+<img src="images/Group3_Graph.png?raw=true"/>
+
+---
+
 ### Book Store
 <ul>
   <li>

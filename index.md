@@ -8,6 +8,8 @@
       Graphing Algorithm Written in Java to solve group allocation problem. Individual Project. 
   </li>
 </ul>
+[GitHub Repo](https://github.com/andrewwmclain/smallgroups_graphing)
+<br>
 <img src="images/Group3_Graph.PNG?raw=true" style="width: 500px; height: 500px"/>
 
 ---

@@ -8,7 +8,7 @@
       Graphing Algorithm Written in Java to solve group allocation problem. Individual Project. 
   </li>
 </ul>
-<img src="images/Group3_Graph.PNG?raw=true" style="width: 200px; height: 200px"/>
+<img src="images/Group3_Graph.PNG?raw=true" style="width: 500px; height: 500px"/>
 
 ---
 

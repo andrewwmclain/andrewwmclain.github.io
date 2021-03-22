@@ -192,21 +192,6 @@
 
 --- 
 
-### LingoJive System Specification
-
-<ul>
-  <li>
-    System specification for LingoJive, a language exchange application. Completed this independently, but I am currently working to build this application as part of a team project (updates soon).  
-  </li>
-</ul>
-
-<br>
-<embed src="pdf/LingoJiveSysSpec.pdf" width="500" height="500" 
- type="application/pdf">
-<br>
-
----
-
 ### Time Complexity Analysis
 
 <ul>

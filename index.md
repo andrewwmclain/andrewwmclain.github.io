@@ -11,7 +11,6 @@
 [GitHub (Front End)](https://github.com/chrismoroney/Seattle-Pacific-University-CSC-4151-4152)
 [GitHub (Back End API)](https://github.com/JonahBufford/LingoJiveAPI)
 <br>
-<img src="images/Group3_Graph.PNG?raw=true" style="width: 500px; height: 500px"/>
 
 ---
 

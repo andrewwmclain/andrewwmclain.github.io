@@ -11,6 +11,7 @@
 [GitHub (Front End)](https://github.com/andrewwmclain/Seattle-Pacific-University-CSC-4151-4152)<br>
 [GitHub (Back End API)](https://github.com/andrewwmclain/LingoJiveAPI)
 <br>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
 
 ---
 

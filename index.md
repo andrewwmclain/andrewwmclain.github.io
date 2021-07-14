@@ -2,7 +2,7 @@
 
 ---
 
-### LingoJive (In Progress)
+### LingoJive
 <ul>
   <li>
       LingoJive is a full-stack web application built using Node.js, Express, MongoDB, JavaScript, HTML and CSS with Auth0 for authentication. LingoJive is a language exchange application, which means it facilitates users in learning foreign languages by allowing them to converse with peers who speak their target language. LingoJive will have instant messaging, audio chat, video chat functionality and more. Group project. 

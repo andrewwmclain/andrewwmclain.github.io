@@ -13,9 +13,6 @@
 <br>
 <iframe width="420" height="315" src="https://youtu.be/PygsE4cvsKM"></iframe>
 <br>
-<iframe width="420" height="315"
-src="https://youtube.com/embed/PygsE4cvsKM">
-</iframe>
 
 ### Small Groups Graphing
 <ul>
